@@ -1,54 +1,66 @@
 # 👋 Hi, I’m Prince Akabari  
 
 ## 🔹 About Me  
-- 🚀 Full Stack Developer with **3+ years of experience** in building scalable, secure, and user-friendly web applications.  
-- 💻 Skilled in **JavaScript, React.js, Node.js, Express, MongoDB, and Next.js**.  
-- ☁️ Hands-on with **AWS, S3, Firebase, and API integrations**.  
-- 🎯 Focused on delivering **end-to-end solutions** for startups & enterprises.  
+🚀 Full Stack Developer with **3+ years of experience** in building scalable, secure, and user-friendly web applications.  
+💻 Skilled in **JavaScript, React.js, Node.js, Express, MongoDB, Next.js**  
+☁️ Hands-on with **AWS, S3, Firebase, API integrations**  
+🎯 Delivering **end-to-end solutions** for startups & enterprises  
 
 ---
 
 ## 🔹 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🔹 What I Do for Clients  
-✔️ Build **custom web apps** (MERN/Next.js)  
-✔️ Develop & integrate **REST/GraphQL APIs**  
-✔️ **Cloud & DevOps** setup (AWS, Docker, CI/CD)  
-✔️ Create modern **UI/UX with Tailwind & ShadCN**  
+## 🔹 What I Do  
+✔️ Custom Web Apps (MERN/Next.js) · ✔️ REST/GraphQL APIs  
+✔️ Cloud & DevOps (AWS, Docker, CI/CD) · ✔️ Modern UI/UX (Tailwind, ShadCN)  
 
 ---
 
 ## 🔹 Highlight Projects  
 
-- 🏆 **OFSTED Compliance SaaS MVP** – Web-based SaaS for UK care sector compliance  
-- 📊 **Audit Checklist System** – Role-based audits with evidence uploads  
-- 🏥 **Doctor Appointment Booking Web App** – Appointment scheduling & patient management  
-- 💇 **BellaSalon** – Responsive website for a professional salon brand  
-- 💎 **Sardar Jewellers** – Elegant e-commerce jewellery store website  
-- 🛒 **Shoppy E-Commerce Platform** – End-to-end shopping cart & payment integration  
-- 🏭 **Sanjay Fasteners (Industrial Web)** – Website for industrial fasteners manufacturer  
-- 🏬 **E-commerce Management System** – Product management, order tracking, and reporting  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/OFSTED_Compliance_SaaS-FF9800?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Audit_Checklist_System-3F51B5?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Doctor_Appointment_App-4CAF50?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/BellaSalon_Website-E91E63?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sardar_Jewellers_Website-9C27B0?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Shoppy_E_Commerce-2196F3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sanjay_Fasteners_Web-795548?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/E_Commerce_Management_System-607D8B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceAkabari&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceAkabari&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=PrinceAkabari&theme=tokyonight&hide_border=false)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceAkabari&show_icons=true&theme=tokyonight" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceAkabari&layout=compact&theme=tokyonight" height="160em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PrinceAkabari&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
 ## 🔹 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/princeakabari)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
-📧 **prince.mernstack@email.com**  
+
+<p align="center">
+  <a href="https://linkedin.com/in/princeakabari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+📧 **prince.mernstack@email.com**
