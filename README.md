@@ -46,12 +46,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceAkabari&show_icons=true&theme=tokyonight" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceAkabari&layout=compact&theme=tokyonight" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akabariprince&show_icons=true&theme=tokyonight" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akabariprince&layout=compact&theme=tokyonight" height="160em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrinceAkabari&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=akabariprince&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
