@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Prince Akabari  
 
 ## 🔹 About Me  
-🚀 Full Stack Developer with **3+ years of experience** in building scalable, secure, and user-friendly web applications.  
+🚀 Full Stack Developer with **4+ years of experience** in building scalable, secure, and user-friendly web applications.  
 💻 Skilled in **JavaScript, React.js, Node.js, Express, MongoDB, Next.js**  
 ☁️ Hands-on with **AWS, S3, Firebase, API integrations**  
 🎯 Delivering **end-to-end solutions** for startups & enterprises  
